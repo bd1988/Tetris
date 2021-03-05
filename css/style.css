@@ -12,19 +12,18 @@ body {
 }
 
 .grid {
-    background-color: blue;
+    background-color: yellow;
     width: 200px;
     height: 400px;
     display: flex;
     flex-wrap: wrap;
 }
 
-div {
-    background-color: yellow;
+.grid div {    
     width: 20px;
     height: 20px;
 }
 
-.block {
+.tetromino {
     background-color: blue;
 }
