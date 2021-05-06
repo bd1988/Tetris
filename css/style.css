@@ -47,3 +47,21 @@ body {
     height: 20px;
 
 }
+
+.tablica {
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 40px;
+    height: 80px;    
+    background-color: darkcyan;
+}
+
+.tablicowy {
+    width: 20px;
+    height: 20px;
+    background-color: crimson;
+}
+
+
+
